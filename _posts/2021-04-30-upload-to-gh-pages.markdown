@@ -7,4 +7,4 @@ categories: jekyll update
 
 In this post, I am very happy that my project blog is now up on github pages.
 
-Thats so cool..
+Thats so cool.. 
